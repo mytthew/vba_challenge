@@ -1,8 +1,3 @@
-# vba_challenge
-
-Background
-You are well on your way to becoming a programmer and Excel expert! In this homework assignment, you will use VBA scripting to analyze generated stock market data.
-
 Instructions
 Create a script that loops through all the stocks for one year and outputs the following information:
 
